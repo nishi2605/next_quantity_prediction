@@ -4,4 +4,4 @@ Next quantity prediction is a project that aimed at predicting the quantity each
 
 This project was an end to end project that involved steps like data loading, data cleaning, data profiling, Exploratory Data Analysis(EDA), data preprocessing, model selection etc.
 
-Project was implemented by utilizing various Machine Learning Techniques such as different types of Regressors but later on we tried implementing this using LSTM Time- series analysis as well. 
+This project was implemented by utilizing various Machine Learning Techniques such as different types of Regressors but later on implementation was done using LSTM Time- series analysis as well. 
